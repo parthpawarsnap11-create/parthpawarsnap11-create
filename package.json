@@ -1,0 +1,13 @@
+{
+  "name": "parthpawarsnap11-create",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "live": "node scripts/live.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^1.3.4",
+    "sharp": "^0.34.5"
+  }
+}
